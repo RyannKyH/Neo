@@ -1,0 +1,74 @@
+baseURL = 'https://example.org/'
+locale = 'pt-br'
+title = 'Ryann'
+theme = "neo"
+
+[markup]
+  [markup.highlight]
+    style = 'dracula'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[params]
+theme = "auto"
+palette = "eink"
+showThemeNotice = true
+showPostsSummary = true
+
+# Giscus Comment System
+[params.giscus]
+repository = "username/repository"
+repositoryId = "repositoryId"
+categoryName = "categoryName"
+categoryId = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
+language = "br"
+lazyLoading = true
+
+# Navigation
+[menu]
+  [[menu.main]]
+    identifier = "Home"
+    name = "Home"
+    title = "Home"
+    url = "/"
+    weight = 1
+  
+  [[menu.main]]
+    identifier = "Posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/posts"
+    weight = 4
+  
+  [[menu.main]]
+    identifier = "About"
+    name = "About"
+    title = "About"
+    url = "/about"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "Projects"
+    name = "Projects"
+    title = "Projects"
+    url = "/projects"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "Tags"
+    name = "Tags"
+    title = "Tags"
+    url = "/tags"
+    weight = 5
+
+
+  [[menu.main]]
+    identifier = "Contacts"
+    name = "Contacts"
+    title = "Contacts"
+    url = "/contacts"
+    weight = 6
