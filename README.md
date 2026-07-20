@@ -2,6 +2,12 @@
 
 My collection of Linux configurations :P
 
+## Screenshots
+###### Desktop
+![Desktop](.rayan/Desktop/desktop.png)
+###### Waybar 
+![Waybar](.rayan/Waybar/waybar.png)
+
 ## My Setup
 
 | User | Application |
@@ -46,5 +52,4 @@ My collection of Linux configurations :P
 | Launcher | Hydra |
 | Tool | Wine - Proton |
 
-## Screenshots
-![Desktop](.rayan/Desktop/desktop.png)
+## Thank you to ![Sudhboi](https://github.com/Sudhboi) and ![TheLittleCake](https://github.com/TheLittleCake) for their settings, which were a great source of inspiration for me on this project ❤️
