@@ -1,11 +1,10 @@
 ## Neo
-...
 
-My collection of Linux configurations
+My collection of Linux configurations :P
 
 ## My Setup
 
-| Tool | Application |
+| User | Application |
 |:-----------:|:----:|
 | Distro | Arch Linux |
 | Window Manager | Niri - Hyprland |
@@ -16,10 +15,19 @@ My collection of Linux configurations
 | File Manager | Yazi |
 | App Launcher | Fuzzel |
 | Text Editor | Obsidian |
+| Snapshots | Snapper |
 | Torrent | Deluge |
 | Browser | Zen - Helium - Firefox |
 
-| Terminal Stuff | Application |
+| System | Application |
+|:-----------:|:----:|
+| Bootloader | Limine |
+| Storage | Btrfs |
+| Sound | Pipewire |
+| Network | Iwd |
+| Boot Image | Plymouth |
+
+| Terminal | Application |
 |:--------------:|:------------:|
 | Terminal Emulator | Alacritty - Kitty |
 | Shell | Nushell |
@@ -37,3 +45,6 @@ My collection of Linux configurations
 | Store | Steam - Epic Games |
 | Launcher | Hydra |
 | Tool | Wine - Proton |
+
+## Screenshots
+![Desktop](.rayan/Desktop/desktop.png)
