@@ -267,6 +267,9 @@ layout {
 // which may be more convenient to use.
 // See the binds section below for more spawn examples.
 
+// Bluetooth Service
+spawn-at-startup "blueman"
+
 // Wallpaper Setup
 spawn-at-startup "awww-daemon"
 

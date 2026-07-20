@@ -1,0 +1,17 @@
+paru -Syyu pwvucontrol
+fuzzel
+pacman -Qr
+pacman -Qs
+pacman -Q
+sudo pacman -S blueman
+paru -S hydra-launcher-bin
+paru -Rs pwvucontrol
+ls
+sudo mkdir /mnt/Football Manager 26.iso
+sudo mount -o loop /home/ryann/Downloads/Football Manager 26.iso
+sudo pacman -S bsdtar
+sudo pacman -S 7z
+sudo pacman -S p7zip
+7z x /home/ryann/Downloads/Football Manager 26.iso
+ls
+sudo mkdir /mnt/Football Manager 26.iso
