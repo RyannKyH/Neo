@@ -1,0 +1,87 @@
+sudo pacman -Rs vim dolphin
+yay -S gitbutler-bin
+ssh-keygen -t ed25519 -C "ryannkyh@proton.me"
+ssh-keygen -t ed25519 -C "ryannkhy@proton.me"
+ssh-keygen -t ed25519 -C "rakyhann@proton.me"
+ssh-keygen -t ed25519 -C "rakhyann@proton.me"
+cat ~/.ssh/ryann_ed25519.pub
+cat ~/.ssh/rayann_ed25519.pub
+cat ~/.ssh/rakyhann_ed25519.pub
+cat ~/.ssh/rakhyann_ed25519.pub
+touch ~/.ssh/config
+ssh -T git@Ryann
+ssh -T git@Rayann
+ssh -T git@Rakyhann
+ssh -T git@Rakhyann
+sudo pacman -S awww
+pacmna -RS htop
+pacman -RS htop
+pacman -Rs htop
+sudo pacman -Rs htop
+git submodule add https://github.com/bect/kopi.git themes/kopi
+hugo server -D
+ls
+hugo server -D
+git submodule add https://github.com/that-daniel/nuno.git themes/nuno
+hugo server -D
+cd /Projetos
+cd Projetos
+hugo new site Neo
+cd Neo
+git submodule add https://github.com/bect/kopi.git themes/kopi
+git init
+git submodule add https://github.com/that-daniel/nuno.git themes/nuno
+git submodule add https://github.com/bect/kopi.git themes/kopi
+hx hugo.toml
+helix hugo.toml
+cd Projetos
+cd Neo
+helix hugo.toml
+hugo server -D
+cd Projetos
+cd Neo
+cd Projetos
+cd Neo
+hugo server -D]
+hugo server -D
+cd Projetos
+cd Neo
+ls
+hugo new content/main.md
+sudo pacman -S obsidian
+clear
+cd Projetos
+hugo server -D
+pkill waybar
+waybar
+pkill waybar
+waybar
+pkill waybar
+waybar
+pkill waybar
+waybar
+pkill waybar
+waybar
+pkill waybar
+waybar
+fc-list : family | grep -i nerd<\n>
+fc-list : family | grep -i nerd
+sudo pacman -S ttf-jetbrains-mono-nerd
+waybar
+fuzze;
+fuzzel
+waybar
+sudo pacman -S brightnessctl
+sudo usermod -aG video,input $USER
+sudo usermod -aG video,input $env.USER
+sudo systemctl enable brightnessctl.service
+brightnessctl
+waybar
+sudo pacman -Rs brightnessctl
+sudo pacman -S flatpak
+awww img /home/ryann/Downloads/one.jpg
+awww img /home/ryann/Downloads/two.jpg
+awww img /home/ryann/Downloads/one.jpg
+sudo pacman -S fastfetch
+clear
+fastfetch
