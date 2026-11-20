@@ -7,4 +7,3 @@ Um Simples Acervo Das Configurações Do Meu Sistema...
 
 ![Neo](.ryann/Imagens/Setup/picture.png)
 
-Sim, Eu Sou Muito Fã De Tokyo Ghoul... :p
