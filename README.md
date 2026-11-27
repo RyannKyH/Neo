@@ -1,6 +1,6 @@
 # Neo
 
-Um Simples Acervo Das Configurações Do Meu Sistema...
+Um Simples Acervo Das Configurações Do Meu Humilde Sistema...
 
 ![Neo](.ryann/Imagens/Setup/image.png)
 
